@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Store Demo</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="again_name">Again Name</string>
+    <string name="read">Read</string>
+    <string name="save">Save</string>
+</resources>
