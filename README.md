@@ -2,7 +2,7 @@
 
 ## DataStore Nedir ? 
 
-Jetpack DataStore, key-value çiftlerini protocol buffers(*) ile saklamanıza olanak tanıyan bir veri depolama çözümüdür.
+Jetpack DataStore, key-value çiftlerini protocol buffers ile saklamanıza olanak tanıyan bir veri depolama çözümüdür.
 DataStore, SharedPreferences yerine Kotlin Coroutine ve Flow yapıları ile asekron olarak lokal verilerimizi depolamaya yarayan Jetpack bileşenidir.
 SharedPreferences'ın birçok dezavantajının üstesinden gelir.
 
